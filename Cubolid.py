@@ -1,0 +1,5 @@
+length = float(input('Enter your Length: '))
+width = float(input('Enter your width: '))
+height= float(input('Enter your height: '))
+area = 2 * ((length * width) + (length * height) + (width * height))
+print('Enter your area', area)

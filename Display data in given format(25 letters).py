@@ -1,0 +1,6 @@
+# Display data in given format (30 letters)
+Item_name = input("Enter Item name: ")
+Price = input("Enter Price: ")
+total_length = len(Item_name) + len(Price)
+dots = "." * (25 - total_length)
+print(Item_name + dots + Price)

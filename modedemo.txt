@@ -1,0 +1,5 @@
+Hello, world!
+Do you want to continueI am learning python.
+It is a very simple language.
+I am learning python.
+It is a very simple language.
